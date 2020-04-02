@@ -1,5 +1,6 @@
-package com.company;
+package com.company.checker;
 
+import com.company.Board;
 import com.company.mark.Mark;
 
 public interface WinningChcker {

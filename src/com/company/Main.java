@@ -1,6 +1,7 @@
 package com.company;
 
-import com.company.mark.TraditionalChecker;
+import com.company.checker.TraditionalChecker;
+import com.company.checker.WinningChcker;
 
 import java.util.Scanner;
 

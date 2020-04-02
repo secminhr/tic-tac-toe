@@ -1,5 +1,6 @@
 package com.company;
 
+import com.company.checker.WinningChcker;
 import com.company.mark.Circle;
 import com.company.mark.Cross;
 import com.company.mark.Mark;
